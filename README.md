@@ -42,7 +42,7 @@ Not your usual fund. Our community is the fund.
 
 ## Community Capital In Practice
 
-**We invest $25-50k** in startups up to Series B where we can add value with our expertise and that of our network. We know these are not big tickets, but in terms of time and attention we give to startups, we punch way above our weight class - and we are just getting started. This is a proof of concept fund, a fund to proof that it makes a difference to have 150+ strong community leaders as limited partners and advisors who want to support the next generation of community driven companies. 
+**We invest $50k** in startups up to Series B where we can add value with our expertise and that of our network. We know these are not big tickets, but in terms of time and attention we give to startups, we punch way above our weight class - and we are just getting started. This is a proof of concept fund, a fund to proof that it makes a difference to have 150+ strong community leaders as limited partners and advisors who want to support the next generation of community driven companies. 
 
 **Investment Focus.** *What does a community focused startup actually mean?* To us, it means building the framework for people to connect, participate and contribute. The contributions range from financing (e.g. investment, pre-ordering, crowdfunding, ...), services (e.g. reporting bugs, on-boarding new users), content (e.g. reviews, articles, videos, posts), ideation (e.g. user research, new product development) to resources and skills (e.g. collaborative economy, access to cars, houses, coding skills, time). We also keep an eye on startups that are building the infrastructure for communities, namely tools that make it easier to start, grow and sustain a community.
 
